@@ -23,4 +23,14 @@
         <servlet-name>DoctorController</servlet-name>
         <url-pattern>/add_doctor</url-pattern>
     </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>ClientController</servlet-name>
+        <servlet-class>servlets.ClientController</servlet-class>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>ClientController</servlet-name>
+        <url-pattern>/clients</url-pattern>
+    </servlet-mapping>
 </web-app>
