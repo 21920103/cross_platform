@@ -1,3 +1,8 @@
+/*
+ * Лабораторна робота 1. 
+ * Демонстрація підключення до ДБ
+ * засобами JDBC
+ */
 package model;
 
 import java.sql.Connection;

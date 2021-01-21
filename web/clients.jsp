@@ -8,6 +8,8 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <!-- Лабораторна робота 2. Використання (впровадження) іменованої залежності - ClientCounter -->
+        <p>Загалом зареєстровано <b>${clientCounter.getCnt()}</b> пацієнтів:</p>
         <%= request.getAttribute( "clientList") %>
     </body>
 </html>

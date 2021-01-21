@@ -1,3 +1,7 @@
+/*
+ * Лабораторна робота 1. 
+ * Сервлет, що реалізує функції контроллера (за MVC)
+ */
 package servlets;
 
 import java.io.IOException;

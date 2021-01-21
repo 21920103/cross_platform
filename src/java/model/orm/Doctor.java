@@ -1,3 +1,7 @@
+/*
+ * Лабораторна робота 1. 
+ * ORM
+ */
 package model.orm;
 
 public class Doctor {

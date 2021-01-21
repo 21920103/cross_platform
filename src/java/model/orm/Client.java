@@ -1,3 +1,7 @@
+/*
+ * Лабораторна робота 2. 
+ * ORM
+ */
 package model.orm;
 
 public class Client {

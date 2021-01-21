@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Лабораторна робота 1
+ * Демонстрація роботи контроллера - передобробка запиту
+ * a також функції внутрішнього перенаправлення (forward)
  */
 package servlets;
 

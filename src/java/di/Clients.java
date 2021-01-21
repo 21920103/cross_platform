@@ -1,14 +1,18 @@
+/*
+ * Демонстрація впровадження залежностей
+ * Залежний клас з життєвим циклом протягом запиту (RequestScoped)
+ * 
+ */
+
 package di;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import javax.enterprise.context.Dependent;
-import javax.inject.Named;
+import javax.enterprise.context.RequestScoped;
 
 
-@Dependent
-//@Named
+@RequestScoped
 public class Clients {
     
     ArrayList<String> namesList ;

@@ -1,3 +1,8 @@
+/*
+ * Лабораторна робота 1. 
+ * Демонстрація роботи з ДБ засобами JDBC
+ * CRUD методи
+ */
 package model;
 
 import java.sql.ResultSet;
